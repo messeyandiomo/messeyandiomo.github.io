@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/messeyandiomo/static/css/main.8e72cb9a.css",
+    "main.js": "/messeyandiomo/static/js/main.40de7db5.js",
+    "static/js/988.9098d6d7.chunk.js": "/messeyandiomo/static/js/988.9098d6d7.chunk.js",
+    "static/media/freelance-web-developer.png": "/messeyandiomo/static/media/freelance-web-developer.4dba599a53b803c955c0.png",
+    "static/media/freelance-web-developer-sm.png": "/messeyandiomo/static/media/freelance-web-developer-sm.0c9f9f4766d24b1709e0.png",
+    "static/media/loading.gif": "/messeyandiomo/static/media/loading.b7a98767a29a9526d9a1.gif",
+    "index.html": "/messeyandiomo/index.html",
+    "main.8e72cb9a.css.map": "/messeyandiomo/static/css/main.8e72cb9a.css.map",
+    "main.40de7db5.js.map": "/messeyandiomo/static/js/main.40de7db5.js.map",
+    "988.9098d6d7.chunk.js.map": "/messeyandiomo/static/js/988.9098d6d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e72cb9a.css",
+    "static/js/main.40de7db5.js"
+  ]
+}
