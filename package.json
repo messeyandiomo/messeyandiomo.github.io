@@ -2,7 +2,7 @@
   "name": "messeyandiomo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://messeyandiomo.github.io/",
+  "homepage": "https://messeyandiomo.github.io/messeyandiomo.github.io",
   "proxy": "https://messeyandiomo.onrender.com:3001",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.2",
