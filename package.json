@@ -1,7 +1,7 @@
 {
   "name": "messeyandiomo.github.io",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://messeyandiomo.github.io/",
   "proxy": "https://messeyandiomo.onrender.com:3001",
   "dependencies": {
